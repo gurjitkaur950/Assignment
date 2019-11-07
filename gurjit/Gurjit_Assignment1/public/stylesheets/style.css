@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+ color: #ffffff;
+  background-color:#8B8989;
+    margin-top: 124px;
+    margin-left:65px;
+}
+
+
+@import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
+
+h1{
+  font-family: 'Lobster', cursive;
+}
+
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+}
+
+legend {
+  font-family: 'Lobster', cursive;
+}
